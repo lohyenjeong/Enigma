@@ -1,1 +1,2 @@
-# Enigma programme that I created for a school assignment
+# Enigma programme
+Created for a school assignment
